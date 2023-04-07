@@ -1,8 +1,10 @@
 ---
-title: "Certificado Profesional de Análisis de Datos de Google" 
-author: "Ing. Ignacio Jiménez Mota, Analista de Datos. Contacto: ignacio.jmota@gmail.com"
+title: "Certificado Profesional de Análisis de Datos de Google"
+author: 'Ing. Ignacio Jiménez Mota, Analista de Datos. Contacto: ignacio.jmota@gmail.com'
 date: "Ciudad de México, México. 31 de marzo del 2023"
-output: html_document
+output:
+  pdf_document: default
+  html_document: default
 ---
 
 
